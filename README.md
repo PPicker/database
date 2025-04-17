@@ -1,6 +1,6 @@
 # PPicker Database Setup
 
-이 레포지토리는 [PPicker](https://github.com/your-repo/PPicker) 프로젝트의 PostgreSQL 기반 데이터베이스 설정을 위한 구성 파일을 담고 있습니다.  
+이 레포지토리는 PPicker 프로젝트의 PostgreSQL 기반 데이터베이스 설정을 위한 구성 파일을 담고 있습니다.  
 Docker를 이용해 로컬 또는 원격 서버에서 손쉽게 실행 가능한 개발/운영 환경을 제공합니다.
 
 ---
