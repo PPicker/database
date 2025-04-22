@@ -1,0 +1,6 @@
+#.env파일 무시
+.env
+.env.test
+.env.prod
+pgdata_prod/
+pgdata_test/
